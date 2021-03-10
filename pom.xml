@@ -37,7 +37,7 @@
         <!-- TODO check these for updates -->
         <javax.validation.version>1.0.0.GA</javax.validation.version>
         <jackson.version>1.9.5</jackson.version>
-        <httpclient.version>4.1.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <commons.io.version>1.4</commons.io.version>
         <aspectj.version>1.8.1</aspectj.version>
         <ehcache.version>2.8.3</ehcache.version>
