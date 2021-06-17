@@ -44,8 +44,8 @@
         <ehcache-jcache.version>1.5.0-0.5</ehcache-jcache.version>
 
         <!-- data store libraries -->
-        <springdata.jpa.version>1.6.2.RELEASE</springdata.jpa.version>
-        <hibernate.em.version>4.3.6.Final</hibernate.em.version>
+        <springdata.jpa.version>1.11.11.RELEASE</springdata.jpa.version>
+        <hibernate.em.version>5.4.24.Final</hibernate.em.version>
         <hibernate.javax.version>1.0.0.Final</hibernate.javax.version>
 
         <!-- Test libraries-->
